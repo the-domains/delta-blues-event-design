@@ -1,0 +1,28 @@
+name: Delta Blues Event Design
+favicon: null
+layout_spectrum: 0.5655648314859718
+typography_spectrum: 0.9772950476035476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7830215224530548
+  lightness: 0.11981634795665741
+  saturation: 0.42600852088071406
+  rhythmicContrast: 0.7205221154727042
+purpose: []
