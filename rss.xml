@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Delta Blues Event Design]]></title>
+        <description><![CDATA[Delta Blues Event Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 05:52:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33dec75f-6690-4aaa-bf4a-e0ef3981294d.jpg">]]></description>
+            <link>undefinedwelcome-to-delta-blues-event-design-located-in-the-heart-of/index.html</link>
+            <guid isPermaLink="false">3d0c5bbb-6c06-433d-8015-cc9c72027ec6</guid>
+            <pubDate>Mon, 02 May 2016 05:51:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
