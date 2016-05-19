@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to Delta Blues Event Design! Located in the heart of New Orleans, LT Beaton and Trey Merrill have joined forces to become a top tier event and wedding production company. With over 40 years of combined industry experience, this creative team works to customize your color schemes, taste, style and music to create a unique and personalized event that brings your desired themed event to life.'
-datePublished: '2016-05-19T02:49:34.079Z'
-dateModified: '2016-05-19T02:48:04.984Z'
+datePublished: '2016-05-19T02:51:41.250Z'
+dateModified: '2016-05-19T02:49:35.610Z'
 title: ''
 author:
   - name: ''
@@ -62,4 +62,4 @@ Trey Merrill was honored to have produced New Orleans Mayor Mitch Landrieu's Pre
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f0ef9a7-dc66-4e46-b579-b2a1da8b3bdf.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0e8c84-ff46-4f2a-9722-6eae3f55ea72.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f411b694-d718-4f56-917c-b60a84b58e90.jpg)
-![Military Wedding at St Louis Cathedral in New Orleans French Quarter](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedcb18e-8349-4fe8-9654-582caf561aa4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedcb18e-8349-4fe8-9654-582caf561aa4.jpg)
