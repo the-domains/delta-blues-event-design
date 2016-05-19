@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to Delta Blues Event Design! Located in the heart of New Orleans, LT Beaton and Trey Merrill have joined forces to become a top tier event and wedding production company. With over 40 years of combined industry experience, this creative team works to customize your color schemes, taste, style and music to create a unique and personalized event that brings your desired themed event to life.'
-datePublished: '2016-05-19T01:58:05.736Z'
-dateModified: '2016-05-19T01:57:59.668Z'
+datePublished: '2016-05-19T02:49:34.079Z'
+dateModified: '2016-05-19T02:48:04.984Z'
 title: ''
 author:
   - name: ''
@@ -41,6 +41,7 @@ Trey Merrill was honored to have produced New Orleans Mayor Mitch Landrieu's Pre
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e3812b-36f8-4f80-89f3-30ca22c971c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8393e68b-8e25-4ad3-821a-4e14d2c5889f.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5068e979-cf97-42dc-af3f-c5568bb94c2d.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1fc0df-0c63-4acc-b2e6-6a7d4f92a90f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/373a877b-ef4c-479d-b4a2-6ec6e62c8c68.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7ea7598-40cc-40a8-a352-24c50455846f.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec6edfb-988b-4d75-a3f4-4f65d12c834a.jpg)
@@ -56,3 +57,9 @@ Trey Merrill was honored to have produced New Orleans Mayor Mitch Landrieu's Pre
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6faf132f-9a93-477f-b6d1-8a9eb4c753e2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f318f971-ce5a-46fe-a723-924de68fc1fb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a33b2ecb-df7f-4e4c-b89a-999e60dd2b46.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04518d4f-6e6b-41a3-8ea4-9674d38d8853.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12b00d57-ccf8-4c9d-b789-3e96f1cacae8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f0ef9a7-dc66-4e46-b579-b2a1da8b3bdf.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0e8c84-ff46-4f2a-9722-6eae3f55ea72.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f411b694-d718-4f56-917c-b60a84b58e90.jpg)
+![Military Wedding at St Louis Cathedral in New Orleans French Quarter](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedcb18e-8349-4fe8-9654-582caf561aa4.jpg)
