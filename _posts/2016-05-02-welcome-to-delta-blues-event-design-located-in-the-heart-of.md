@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to Delta Blues Event Design! Located in the heart of New Orleans, LT Beaton and Trey Merrill have joined forces to become a top tier event and wedding production company. With over 40 years of combined industry experience, this creative team works to customize your color schemes, taste, style and music to create a unique and personalized event that brings your desired themed event to life.'
-datePublished: '2016-05-19T02:51:41.250Z'
-dateModified: '2016-05-19T02:49:35.610Z'
+datePublished: '2016-05-20T11:50:33.566Z'
+dateModified: '2016-05-20T11:50:32.964Z'
 title: ''
 author:
   - name: ''
